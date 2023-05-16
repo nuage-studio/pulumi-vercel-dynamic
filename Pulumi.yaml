@@ -1,0 +1,6 @@
+name: pulumi-vercel-dynamic
+description: A example of using the dynamic provider for Vercel
+runtime:
+  name: python
+  options:
+    virtualenv: .venv
